@@ -2,8 +2,8 @@
   "name": "first-cadl",
   "dependencies": {
     "@cadl-lang/compiler": "latest",
-    "@cadl-lang/rest": "latest",
-    "@cadl-lang/openapi3": "latest"
+    "@cadl-lang/openapi3": "^0.12.0",
+    "@cadl-lang/rest": "^0.15.0"
   },
   "private": true,
   "version": "1.0.0",
